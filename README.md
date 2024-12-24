@@ -12,7 +12,7 @@ This project provides a dynamic and reusable framework for generating thematic m
   - `shapefiles/`: Shapefiles for the African continent, AFRO regions, and disputed areas.
   - `data_example.xlsx`: Example Excel file with data to visualize.
 
-- **`R/`**: Contains modular R scripts for specific tasks:
+- **`Script/`**: Contains modular R scripts for specific tasks:
   - `config_and_import.R`: Handles configuration and data import.
   - `data_processing.R`: Cleans and merges data for visualization.
   - `visualization.R`: Generates maps based on the processed data.
